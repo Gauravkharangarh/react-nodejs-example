@@ -7,6 +7,10 @@
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
+/my-app/package-lock.json
+/api/package-lock.json
+/my-app/*.tgz
+/api/*.tgz
 
 # dependencies
 /node_modules
